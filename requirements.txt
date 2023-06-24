@@ -9,7 +9,6 @@ attrs==21.4.0
 audioread==3.0.0
 backports.zoneinfo==0.2.1
 bech32==1.2.0
-binance-futures @ file:///C:/Users/SAMPLE/Desktop/CODE/AUTOMATE%20TRADER%20%5BDEV%5D/binance_futures-1.1.0-py3-none-any.whl
 bip32utils==0.3.post4
 ccxt==1.73.85
 certifi==2021.10.8
