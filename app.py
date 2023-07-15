@@ -6,7 +6,7 @@ import time
 
 app = Flask(__name__)
 
-@app.route('/webhook', methods=['GET', 'POST'])
+@app.route('/webhook/forex', methods=['GET', 'POST'])
 def webhook():
     if request.method == 'POST':
         
